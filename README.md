@@ -2,7 +2,7 @@
 Студент МГТУ им Баумана<br>студент Технопарка ВК основного трека "WEB разработчик"<br>пишу на GO<br>telegram: @ale_username
 
 
-## 🌐 Почта:
+## 🌐 Почта и  ТГ:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudenko_alexander@hotmail.com) 
 [![telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/ale_username)
 
